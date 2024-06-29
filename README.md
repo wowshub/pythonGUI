@@ -1,6 +1,6 @@
-### title： be  python learning  - Python GUI
-### time： begin 20240629
-### author： yangyanghub be
+### Title： be  python learning  - Python GUI
+### Time： begin 20240629
+### Author： yangyanghub be
 
 
 
