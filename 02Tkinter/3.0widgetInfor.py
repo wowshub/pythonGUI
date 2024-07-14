@@ -2,7 +2,7 @@
 """
 @author: beyourself
 @contact: 29098663@qq.com
-@file: 03tkinkerComponent.py
+@file: 3.0widgetInfor.py
 @time: 2024-07-14 9:12
 @version: 1.0
 @desc: pythonGUI project
