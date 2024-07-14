@@ -14,6 +14,6 @@ def show():
 from tkinter import *
 
 win=Tk()
-img=PhotoImage(file='bb.png')
+img=PhotoImage(file='pic/bb.png')
 but1=Button(win,text="添加图片",command=show).pack()
 win.mainloop()
